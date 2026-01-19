@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "Calculadora",
+    "short_description": "Actualiza el estado y los campos del lead.",
+    "description": "Permite actualizar el estado del lead, la fecha/hora y un mensaje opcional al cliente en Kommo.",
+    "tour_description": "Tour del Actualizador de Leads"
+  },
+  "settings": {
+    "api_key": "Clave API"
+  }
+}
