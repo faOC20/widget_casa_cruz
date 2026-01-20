@@ -3,7 +3,7 @@
     "name": "Mi Widget Lateral",
     "description": "Widget conectado a Apps Script",
     "version": "1.0.0",
-    "init": "index.html",
+    "init": "widget_casacruz/index.html",
     "locale": [
       "es",
       "en"
